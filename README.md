@@ -1,6 +1,6 @@
 # [Gestion de Projet 2, M2 SIA] 
 ## Grand Paris Express Routing
-### El Fenni Hassen, Fredj Najeh, Romain Ducrocq
+### El Fenni Hassan, Fredj Najeh, Romain Ducrocq
 
 ****
 
