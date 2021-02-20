@@ -1,6 +1,6 @@
 # [Gestion de Projet 2, M2 SIA] 
 ## Grand Paris Express Routing
-### El Fenni Hassan, Fredj Najeh, Romain Ducrocq
+### El Fenni Hassen, Fredj Najeh, Romain Ducrocq
 
 ****
 
@@ -34,8 +34,10 @@ java -Xmx4G -jar otp-2.0.0-shaded.jar --load .
 **Tree**
 
 ├── data  
+│&nbsp;&nbsp;&nbsp;├── demand.xlsx  
 │&nbsp;&nbsp;&nbsp;├── gpe-idf.csv  
-│&nbsp;&nbsp;&nbsp;└── idf.csv  
+│&nbsp;&nbsp;&nbsp;├── idf.csv  
+│&nbsp;&nbsp;&nbsp;└── laposte_hexasmal.csv  
 ├── otp-gpe-idf  
 │&nbsp;&nbsp;&nbsp;├── gtfs  
 │&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── idfm-gpe.gtfs.zip  
